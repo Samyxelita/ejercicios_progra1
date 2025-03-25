@@ -20,3 +20,4 @@ int main() {
 
     return 0;
 }
+//Me ayudo solo en los calculos el codigo de la IA

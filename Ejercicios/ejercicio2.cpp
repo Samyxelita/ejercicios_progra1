@@ -41,3 +41,4 @@ int main() {
 
     return 0;
 }
+// El codigo de la IA me ayudo a entender la logica porque no entendi muy bien el enunciado.

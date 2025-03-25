@@ -74,3 +74,4 @@ int main() {
 
     return 0;
 }
+//El codigo de la IA me ayudo a resolverlo aunque aun asi se encuentran algunas debilidadades en el codigo.

@@ -30,3 +30,4 @@ int main() {
 
     return 0;
 }
+// LA ia me ayudo en la eficiencia del codigo 
