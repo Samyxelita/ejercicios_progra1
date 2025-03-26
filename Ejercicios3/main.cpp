@@ -1,12 +1,14 @@
-#include "Ejercicio4.h"
+#include "Ejercicio10.h"
 
 int main() {
-    int numeroUsuario;
-    std::cout << "Ingrese un número para comparar con las iteraciones: ";
-    std::cin >> numeroUsuario;
+    Ejercicio10 ejercicio;
+    int numero;
 
-    Ejercicio4 ejercicio(numeroUsuario);
-    ejercicio.ejecutar();
+    std::cout << "Ingrese un número para calcular su factorial: ";
+    std::cin >> numero;
+
+    int resultado = ejercicio.calcularFactorial(numero);
+    std::cout << "El factorial de " << numero << " es: " << resultado << std::endl;
 
     return 0;
 }
